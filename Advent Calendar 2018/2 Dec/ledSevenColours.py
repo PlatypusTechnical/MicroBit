@@ -1,3 +1,7 @@
+# Cycles through the primary and secondary colours of light, as well as white.
+# Need a RGB LED to be wired up.  Instructions are Step 7 on https://www.littlebird.com.au/learn/63/make-an-rgb-led-blink-with-micro-bit
+# Video of the code running is available at https://www.youtube.com/watch?v=mNEN9i9zddM
+
 from microbit import *
 
 while True:
