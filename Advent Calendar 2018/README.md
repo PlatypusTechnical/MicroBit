@@ -18,3 +18,5 @@ For each day of December leading up to Christmas
  3. Push button momentary switch
  4. Four digit LCD display
  5. Potentiometer
+ 6. 128x64 pixel OLED screen
+ 7. Thermistor module
