@@ -20,3 +20,5 @@ For each day of December leading up to Christmas
  5. Potentiometer
  6. 128x64 pixel OLED screen
  7. Thermistor module
+ 8. Digital temperature module
+ 9. Rain sensor
