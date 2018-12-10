@@ -22,3 +22,4 @@ For each day of December leading up to Christmas
  7. Thermistor module
  8. Digital temperature module
  9. Rain sensor
+ 10. Temperature and humidity module
