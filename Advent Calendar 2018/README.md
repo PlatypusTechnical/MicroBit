@@ -23,3 +23,5 @@ For each day of December leading up to Christmas
  8. Digital temperature module
  9. Rain sensor
  10. Temperature and humidity module
+ 11. Sound level sensor module
+ 12. A light dependent resitor module and buzzer
