@@ -25,3 +25,4 @@ For each day of December leading up to Christmas
  10. Temperature and humidity module
  11. Sound level sensor module
  12. A light dependent resitor module and buzzer
+ 13. A normally closed reed switch (bi-stable)
