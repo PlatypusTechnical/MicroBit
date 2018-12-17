@@ -1,7 +1,7 @@
 Here is a collection of programs written in python to make use of the 2018 micro:bit Advent Calendar from Little Bird Electronics.
 
 ## Advent Kit Components
-Here is the list of componets in the kit (updated as we open them)
+Here is the list of components in the kit (updated as we open them)
 
 ### A micro:bit
 Of course
@@ -26,3 +26,7 @@ For each day of December leading up to Christmas
  11. Sound level sensor module
  12. A light dependent resitor module and buzzer
  13. A normally closed reed switch (bi-stable)
+ 14. Tilt switch
+ 15. Passive buzzer
+ 16. Barometer
+ 17. Gas sensor
