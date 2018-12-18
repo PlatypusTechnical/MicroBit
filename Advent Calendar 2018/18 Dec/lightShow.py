@@ -2,6 +2,8 @@
 # expect that we can program a light show by choosing which order and how quickly to turn LED on and off.
 # The display is turned off to make pins 3, 4, 6, 7, 9 available.
 # Pin5 is tied to button_a, so we don't use it.
+# Use the wiring instructions for 5 LEDs to see if you can wire 9 up to pins 0, 1, 2, 3, 4, 6, 7, 8, and 9.
+# Wiring for 5 LEDs is Step 14 of: https://www.littlebird.com.au/learn/89/using-leds-with-micro-bit 
 # Can you modify this code to make your own light show?
 
 from microbit import *
