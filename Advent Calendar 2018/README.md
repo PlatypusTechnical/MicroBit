@@ -30,3 +30,4 @@ For each day of December leading up to Christmas
  15. Passive buzzer
  16. Barometer
  17. Gas sensor
+ 18. 10 coloured LED and resistors
