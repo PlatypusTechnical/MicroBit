@@ -32,3 +32,5 @@ For each day of December leading up to Christmas
  17. Gas sensor
  18. 10 coloured LED and resistors
  19. Rotary encoder (KY-040)
+ 20. LASER module
+ 21. Infra-red obstacle detector
