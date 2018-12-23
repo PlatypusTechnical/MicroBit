@@ -34,3 +34,5 @@ For each day of December leading up to Christmas
  19. Rotary encoder (KY-040)
  20. LASER module
  21. Infra-red obstacle detector
+ 22. Relay
+ 23. Hall-effect sensor
