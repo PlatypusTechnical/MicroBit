@@ -36,3 +36,4 @@ For each day of December leading up to Christmas
  21. Infra-red obstacle detector
  22. Relay
  23. Hall-effect sensor
+ 24. Analogue joystick
